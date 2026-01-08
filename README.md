@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-![Latest XKCD Comic](xkcd-api.ridvanaltun.vercel.app)
+![Latest XKCD Comic](https://xkcd-api.ridvanaltun.vercel.app/api/comics/random)
 ---
 
 
