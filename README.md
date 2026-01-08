@@ -34,5 +34,5 @@ hobbies: ["exploring places"]
 ```
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+<i class="devicon-archlinux-plain colored"></i>
           
