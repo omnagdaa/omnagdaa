@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-
+<p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyNW1wYnI4b2N5eDQ4MGNyZzEzbzVqcWFzcTFnejNpbGVrcXZkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZBPy22X28Rqg8uCzXg/giphy.gif" width="300" hegiht="300" />
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQxZ3VzMWo4eW1lMzdwZDIxdHloOW5kc3pnOGxhNDZxMXZybGFqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WS2fde3f9QNphMw3GL/giphy.gif" width="300" height="300"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M5cTI2dTh2bzd6cG13dm9mZGxhZnp3ejdsYXZ6bXI5Mnh1cWV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fS54t1un4OddHeCs69/giphy.gif" width="300" height="300"/>
+</p>
 
 ---
 
