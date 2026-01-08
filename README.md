@@ -2,12 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://xkcd-api.ridvanaltun.vercel.app/api/comics/random?img=true"/>
-</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VvOGp2MzVteDJ2cDQ3YjJoZnZ2MmkyNTd0MzcwbnEzNmcwMDRndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"/>
 
 ---
-
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -34,7 +31,6 @@ technical_background:
   "Intern - DFIR Intern"
 ]
 
-
 currently_learning: ["Devops, Redteaming, Pentesting"]
 2026 Goals: [
   "create at least 4 projects worth while"
@@ -42,7 +38,6 @@ currently_learning: ["Devops, Redteaming, Pentesting"]
 ]
 hobbies: ["exploring places"]
 ```
-
 
 ---  
   
@@ -68,5 +63,3 @@ hobbies: ["exploring places"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
