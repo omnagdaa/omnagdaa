@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 ```yaml
 name: Om Nagda
 located_in: Ahemdabad, Gujarat
@@ -29,3 +32,7 @@ currently_learning: ["Devops, Redteaming, Pentesting"]
 ]
 hobbies: ["exploring places"]
 ```
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
