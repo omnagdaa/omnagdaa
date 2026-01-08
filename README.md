@@ -3,7 +3,7 @@
 </p>
 
 
-<img src="https://xkcd-api.ridvanaltun.vercel.app/api/comics/random"  
+<img src="https://xkcd-api.ridvanaltun.vercel.app/api/comics/random"/>
 ---
 
 
